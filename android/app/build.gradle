@@ -9,7 +9,7 @@ android {
     compileSdkVersion 34
 
     defaultConfig {
-        applicationId "com.example.proyecto_app_biblioteca"
+        applicationId "com.areliselchido.proyectoappbiblioteca"
         minSdkVersion 21
         targetSdkVersion 34
         versionCode 1
